@@ -1,0 +1,18 @@
+
+body {
+  background-color: rgb(200,200,200);
+}
+
+myDiv {
+  border: 5px outset red;
+  background-color: lightblue;
+  text-align: center;
+}
+.profile_picture{
+  border-radius: 100px;
+  .
+}
+p{
+  font-size: 18;
+  text-align: justify;
+}
