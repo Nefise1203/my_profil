@@ -6,16 +6,32 @@ h1
 {
   text-align: centerß
 }
-myDiv {
+.container {
+  width: 500px;   /* This sets the width */
+  margin: 0 auto; /* This automatically sets left/right margins */
+}
+.myDiv {
   border: 5px outset red;
   background-color: lightblue;
   text-align: center;
 }
-.profile_picture{
-  border-radius: 100px;
-  .
+#home-page-first-image {
+  border-radius: 100%;
+  position: center;
 }
+
 p{
   font-size: 18;
   text-align: justify;
+}
+.img-circle {
+  border-radius: 100%;
+}
+.text-center {
+  text-align: center;
+}
+.card-white {
+  background: white;
+  padding: 30px;
+  border: 1px solid lightgrey;
 }
