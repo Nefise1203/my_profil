@@ -2,7 +2,10 @@
 body {
   background-color: rgb(200,200,200);
 }
-
+h1
+{
+  text-align: centerß
+}
 myDiv {
   border: 5px outset red;
   background-color: lightblue;
